@@ -10,7 +10,7 @@
       <p><b>地址：宁波市鄞州区浙江万里学院，邮编315000</b></p >
     </td>
     <td width="25%">
-      < img src="微信图片_20200217001418.jpg" width="100%">      
+      < img src="/https://github.com/niubaoying/niubaoying.github.io/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200217001418.jpg?raw=true" width="100%">      
     </td>
   </tr>
 </table>
